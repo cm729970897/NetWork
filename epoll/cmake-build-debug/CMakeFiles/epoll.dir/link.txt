@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/epoll.dir/epoll0_client.cpp.o CMakeFiles/epoll.dir/reactor01.cpp.o CMakeFiles/epoll.dir/lib/channel_map.cpp.o  -o epoll 

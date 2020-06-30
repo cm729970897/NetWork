@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData">
+    <serverData>
+      <paths name="192.168.2.129 (34bb271e-fc85-47b4-b831-6b898dd39ad7)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/test01" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="192.168.2.129 (eefd3834-17f4-4a26-a998-cc7415215858)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

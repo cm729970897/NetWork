@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/nonblockingIO.dir/client01.cpp.o  -o nonblockingIO.exe -Wl,--out-implib,libnonblockingIO.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
